@@ -1,4 +1,4 @@
-# Assignment-3
+# Logistic Regression and CNN
 
 ## Logistic Regression 
 
@@ -237,3 +237,7 @@ The decision surface is shown below :
 <p align="center" >
     <img src="images/q4_torch_decision_surface.png" width="60%">
 </p>
+
+## CNN
+
+The performance of baseline CNN, transfer learning with VGG1, and transfer learning with VGG1 with data augmentation on an image dataset are compared for a an image classification problem of dog and pands. See the folder <b>CNN</b> for more. 
